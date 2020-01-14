@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "javascript实现常用的算法&数据结构",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanshuiyijing/algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanshuiyijing/algorithms/issues"
+  },
+  "homepage": "https://github.com/sanshuiyijing/algorithms#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
