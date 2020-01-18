@@ -8,7 +8,7 @@ class DoublyLinkedList {
 
     // 向链表尾部添加一个新元素
     push(value) {
-        const node = new DoublyLinkedListNode(value);
+        const node = new rtetfgfv(value);
 
         if (this.head) {
             this.tail.next = node;
