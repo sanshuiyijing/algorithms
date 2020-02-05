@@ -25,12 +25,12 @@ test('insert', () => {
 // })
 
 
-test('removeLeafNode', () => {
-    const tree = new BinarySearchTree();
-    tree.insert(11).insert(7).insert(15).insert(5).insert(3).insert(9).insert(13).insert(12).insert(20);
+// test('removeLeafNode', () => {
+//     const tree = new BinarySearchTree();
+//     tree.insert(11).insert(7).insert(15).insert(5).insert(3).insert(9).insert(13).insert(12).insert(20);
 
-    // tree.remove(3);
-    // tree.remove(5);
-    tree.remove(15);
-    tree.preOrderTraverse(tree.root);
-})
+//     // tree.remove(3);
+//     // tree.remove(5);
+//     tree.remove(15);
+//     tree.preOrderTraverse(tree.root);
+// })
